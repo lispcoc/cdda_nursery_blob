@@ -1,5 +1,8 @@
 ###ブロブの苗床になれるMOD
 
+ダウンロード用URL
+https://github.com/lispcoc/cdda_nursery_blob/archive/master.zip
+
 ##概要
 ブロブを体内で飼って共生できるようになるMODです。
 苗床になると以下のような特徴を得られます。
